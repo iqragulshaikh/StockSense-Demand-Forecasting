@@ -1,0 +1,7 @@
+venv312/
+.venv/
+data/
+notebooks/
+tests/
+__pycache__/
+.git/
