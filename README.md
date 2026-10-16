@@ -27,14 +27,14 @@ Kaggle "Walmart Recruiting - Store Sales Forecasting": 45 stores, 81 departments
 ##  Project Visuals & UI
 
 ### 1. Feature Engineering & Hopsworks Feature Store
-![Hopsworks Feature Store](dashboard/hopswork_dashboard.PNG)
+![Hopsworks Feature Store](docs/hopswork_dashboard.PNG)
 
 ### 2. FastAPI Backend & Interactive API Docs
-![FastAPI Docs](dashboard/forecastAPI_dashboard.PNG)
+![FastAPI Docs](docs/forecastAPI_dashboard.PNG)
 
 ### 3. Interactive Streamlit Dashboard
 [View Live Streamlit Dashboard](https://stocksense-demand-forecasting-cnpffssfmyw2xjjugxuybh.streamlit.app/)
-![Streamlit Dashboard](dashboard/Streamlit_dashboard.PNG)
+![Streamlit Dashboard](docs/Streamlit_dashboard.PNG)
 
 ---
 ## Approach
