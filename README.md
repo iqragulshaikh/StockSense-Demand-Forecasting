@@ -22,6 +22,21 @@ WAPE is total absolute error divided by total actual sales (lower is better). Th
 
 Kaggle "Walmart Recruiting - Store Sales Forecasting": 45 stores, 81 departments, 421,570 weekly rows from 2010-02-05 to 2012-10-26, joined with store type and size, temperature, fuel price, markdowns, CPI and unemployment.
 
+---
+
+##  Project Visuals & UI
+
+### 1. Feature Engineering & Hopsworks Feature Store
+![Hopsworks Feature Store](dashboard/hopswork_dashboard.PNG)
+
+### 2. FastAPI Backend & Interactive API Docs
+![FastAPI Docs](dashboard/forecastAPI_dashboard.PNG)
+
+### 3. Interactive Streamlit Dashboard
+[View Live Streamlit Dashboard](https://stocksense-demand-forecasting-cnpffssfmyw2xjjugxuybh.streamlit.app/)
+![Streamlit Dashboard](dashboard/Streamlit_dashboard.PNG)
+
+---
 ## Approach
 
 1. **Cleaning (decisions made from the data):**
